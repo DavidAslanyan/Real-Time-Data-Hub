@@ -7,24 +7,6 @@ Welcome to **DailyVisit**, a dynamic and user-friendly website designed to provi
 
 Built with **React**, **TypeScript**, and **Redux**, **DailyVisit** pulls real-time data from reliable third-party APIs to give you a seamless experience.
 
-## Features
-
-- **Weather Forecast**: Get accurate, up-to-date weather forecasts based on your current location.
-- **Daily News**: Stay informed with the latest global news headlines from trusted sources.
-- **Currency Exchange Rates**: Monitor real-time exchange rates for various global currencies.
-- **Location Detection**: Automatically detects your location to display personalized weather data.
-- **Responsive Design**: The app adapts to all screen sizes for a smooth experience on desktop and mobile devices.
-
-## Tech Stack
-
-- **React**: A JavaScript library for building dynamic and responsive user interfaces.
-- **TypeScript**: Adds type safety and better tooling support for a smooth development experience.
-- **Redux**: Manages the application state and ensures a seamless data flow across the app.
-- **Third-party APIs**:
-  - [NewsAPI](https://newsapi.org/): Fetches real-time global news.
-  - [Meteomatics API](https://www.meteomatics.com/): Provides accurate weather forecast data.
-  - [ExchangeRatesAPI](https://exchangeratesapi.io/): Delivers real-time exchange rates for global currencies.
-
 ## Setup & Installation
 
 ### Prerequisites
@@ -51,6 +33,25 @@ Built with **React**, **TypeScript**, and **Redux**, **DailyVisit** pulls real-t
     npm start
     ```
 5. Open your browser and go to [http://localhost:3000](http://localhost:3000) to see the application in action.
+
+
+## Features
+
+- **Weather Forecast**: Get accurate, up-to-date weather forecasts based on your current location.
+- **Daily News**: Stay informed with the latest global news headlines from trusted sources.
+- **Currency Exchange Rates**: Monitor real-time exchange rates for various global currencies.
+- **Location Detection**: Automatically detects your location to display personalized weather data.
+- **Responsive Design**: The app adapts to all screen sizes for a smooth experience on desktop and mobile devices.
+
+## Tech Stack
+
+- **React**: A JavaScript library for building dynamic and responsive user interfaces.
+- **TypeScript**: Adds type safety and better tooling support for a smooth development experience.
+- **Redux**: Manages the application state and ensures a seamless data flow across the app.
+- **Third-party APIs**:
+  - [NewsAPI](https://newsapi.org/): Fetches real-time global news.
+  - [Meteomatics API](https://www.meteomatics.com/): Provides accurate weather forecast data.
+  - [ExchangeRatesAPI](https://exchangeratesapi.io/): Delivers real-time exchange rates for global currencies.
 
 ## Usage
 
