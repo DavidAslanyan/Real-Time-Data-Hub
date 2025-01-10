@@ -62,7 +62,8 @@ Built with **React**, **TypeScript**, and **Redux**, **DailyVisit** pulls real-t
 
 - `src/`: Contains the source code for the application.
   - `components/`: Reusable React components used throughout the app.
-  - `redux/`: Contains Redux actions, reducers, and the store configuration.
+  - `features/`: Contains Redux actions, reducers, and the store configuration.
+  - `pages/`: Contains main sections of the application. 
   - `utils/`: Helper functions, such as those used to fetch data from external APIs.
   - `App.tsx`: The main component that renders the application and orchestrates the layout.
 
