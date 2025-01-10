@@ -10,7 +10,7 @@ Built with **React**, **TypeScript**, and **Redux**, **DailyVisit** pulls real-t
 ## Setup & Installation
 
 ### Prerequisites
-
+ 
 - **Node.js**: Make sure you have [Node.js](https://nodejs.org/) installed.
 - **npm**: npm comes bundled with Node.js.
 
