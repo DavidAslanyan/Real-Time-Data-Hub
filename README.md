@@ -15,7 +15,7 @@ Built with **React**, **TypeScript**, and **Redux**, **DailyVisit** pulls real-t
 - **npm**: npm comes bundled with Node.js.
   
 ### Steps to Get Started
-
+  
 1. Clone the repository to your local machine:
     ```bash
     git clone https://github.com/DavidAslanyan/Real-Time-Data-Hub.git
