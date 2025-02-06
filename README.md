@@ -16,7 +16,7 @@ Built with **React**, **TypeScript**, and **Redux**, **DailyVisit** pulls real-t
   
 ### Steps to Get Started  
   
-1. Clone the repository to your local machine:  
+1. Clone the repository to your local machine:     
     ```bash
     git clone https://github.com/DavidAslanyan/Real-Time-Data-Hub.git
     ```
@@ -67,10 +67,6 @@ Built with **React**, **TypeScript**, and **Redux**, **DailyVisit** pulls real-t
   - `pages/`: Contains main sections of the application. 
   - `utils/`: Helper functions, such as those used to fetch data from external APIs.
   - `App.tsx`: The main component that renders the application and orchestrates the layout.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
